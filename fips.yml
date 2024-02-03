@@ -3,12 +3,8 @@
 #
 ---
 imports:
-    fips-imgui:
-        git:    https://github.com/fips-libs/fips-imgui.git
     oryol:
         git:    https://github.com/floooh/oryol.git
 exports:
-    header-dirs:
-        - src
     modules:
-        IMUI:   src/IMUI
+        simplegui:   src/simplegui

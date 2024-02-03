@@ -8,4 +8,5 @@ public:
     static void Works();
 };
 
+
 } // namespace Oryol
